@@ -1,8 +1,5 @@
 # Camelonta Umbraco Styleguide
 
-## Table of Contents
- --- TODO
- 
  
  
  # Grid layout best practices
