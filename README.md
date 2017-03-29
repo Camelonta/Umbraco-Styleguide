@@ -2,7 +2,7 @@
 
  
  
- # Grid layout best practices
+ ## Grid layout best practices
 
 **[Read this *short* manual from Umbraco]( https://our.umbraco.org/documentation/getting-started/backoffice/property-editors/built-in-property-editors/Grid-Layout/Grid-Layout-Best-Practices)**
  
